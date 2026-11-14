@@ -7,13 +7,6 @@ I am an aspiring penetration tester using this repository to document my practic
 
 More importantly, it demonstrates my focus on translating technical findings into structured reports, including CVSS scoring, business impact, and actionable remediation strategies.
 
-## 📂 Repository Structure
-Each folder represents a specific lab machine. Inside, you will typically find:
-*   **`Report.pdf`** (or `.md`): The structured penetration testing report.
-*   **`Scans/`**: Raw Nmap, directory brute-force, or other tool outputs.
-*   **`Scripts/`**: Any custom scripts or payloads written during the assessment.
-*   **`Notes.md`**: My raw thought process and enumeration notes.
-
 ## 🛠️ Skills Demonstrated
 *   **Enumeration:** Nmap, Netcat, SMB, FTP, MySQL, Web Fuzzing.
 *   **Web Exploitation:** Burp Suite, SQL Injection, LFI, API testing.
